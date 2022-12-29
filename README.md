@@ -1,5 +1,5 @@
 # Leetcode
-My solutions to Leetcode problems. <br/>
+My solutions to some leetcode problems. <br/>
 Credit to <a href="https://github.com/QasimWani" target="_self">@QasimWani</a>, developer of <a href="https://github.com/QasimWani/LeetHub" target="_self"> Leethub</a>, which is an opensource project that automatically syncs leetcode solutions to github accounts.
 <br/>
 <p align= "center">
