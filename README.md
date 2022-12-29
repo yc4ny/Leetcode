@@ -1,6 +1,6 @@
 # Leetcode
-My solutions to Leetcode problems. 
-Thanks to @QasimWani for the amazing repo that automatically pushes my solutions to this repository.
+My solutions to Leetcode problems. <br/>
+Thanks to <a href="https://github.com/QasimWani" target="_self">@QasimWani</a> for the amazing repo that automatically pushes my solutions to this repository.
 https://github.com/QasimWani/LeetHub
 <br/>
 <p align= "center">
