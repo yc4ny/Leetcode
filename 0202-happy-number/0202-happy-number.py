@@ -10,6 +10,6 @@ class Solution:
         for i in range(len(n_s)):
             n += int(n_s[i]) * int(n_s[i])
  
-        return Solution.isHappy(self,n)
+        return self.isHappy(n)
     
         
