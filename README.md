@@ -2,7 +2,7 @@
 My solutions to Leetcode problems 
 <br/>
 <p align= "center">
-<img src="img/leetcode.png" width="600" height="450" />
+<img src="leetcode.png" width="600" height="450" />
 </p>
 <br/>
 
