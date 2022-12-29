@@ -1,6 +1,6 @@
 # Leetcode
 My solutions to Leetcode problems. <br/>
-Credit to <a href="https://github.com/QasimWani" target="_self">@QasimWani</a>, developer of <a href="https://github.com/QasimWani/LeetHub" target="_self"> Leethub</a>, which automatically syncs my leetcode solutions to my github account.
+Credit to <a href="https://github.com/QasimWani" target="_self">@QasimWani</a>, developer of <a href="https://github.com/QasimWani/LeetHub" target="_self"> Leethub</a>, which is an opensource project that automatically syncs leetcode solutions github accounts.
 <br/>
 <p align= "center">
 <img src="leetcode.png" width="500" height="350" />
