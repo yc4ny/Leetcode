@@ -1,5 +1,7 @@
 # Leetcode
-My solutions to Leetcode problems 
+My solutions to Leetcode problems. 
+Thanks to @QasimWani for the amazing repo that automatically pushes my solutions to this repository.
+https://github.com/QasimWani/LeetHub
 <br/>
 <p align= "center">
 <img src="leetcode.png" width="600" height="450" />
