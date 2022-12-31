@@ -7,7 +7,7 @@ Credit to <a href="https://github.com/QasimWani" target="_self">@QasimWani</a>, 
 </p>
 <br/>
 
-## Curated List of Essential Leetcode Problems
+### Curated List of Essential Leetcode Problems
 Array
 
 - Two Sum - https://leetcode.com/problems/two-sum/
